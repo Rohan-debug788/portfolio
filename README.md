@@ -1,6 +1,6 @@
 # portfolio
-#### The app is my Portfolio, 17/09/2024
-#### **By Kelvin Kipchumba**
+#### The app is my Portfolio, 22/09/2024
+#### **By Rohan Kibet**
 ## Description
 The application includes a  landing page showing what i do, my education background, some of my projects and their links to my github  and my contact information.
 
